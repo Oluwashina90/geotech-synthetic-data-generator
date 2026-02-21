@@ -21,4 +21,5 @@ Geotechnical engineering often suffers from **data scarcity**—site investigati
 
 The final dataset is **class‑balanced** (1,774 samples each of Well‑graded sand SW and Poorly graded sand SP) and ready for machine learning applications.
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18zMpWaguJQCteRXHckxFlH_Ha3Io-_et?usp=sharing)
 ---
